@@ -1,0 +1,50 @@
+* {
+    background-color: #16161a;
+    color: #94a1b2;
+}
+
+header {
+    margin: 0px;
+    border: 0px;
+    height: 85px;
+    background-color: #16161a;
+    border-bottom: 2px solid #94a1b2;
+
+}
+
+header a {
+    color: #fffffe;
+    margin: 10px;
+}
+
+header nav {
+    padding-right: 40px;
+}
+
+main {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+p {
+    line-height: 150%;
+}
+
+.headerlogo {
+    font-family: "Merriweather Sans", serif;
+    color: #7f5af0;
+    font-size: 35px;
+    margin: 0;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.headernav {
+    text-align: right;
+    margin: 0;
+
+}
+
+.subject {
+    color: #2cb67d;
+}
