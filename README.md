@@ -1,1 +1,1 @@
-# bytesizesecurity.com
+# bytesizesecurity
